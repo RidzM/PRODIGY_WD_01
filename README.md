@@ -12,7 +12,9 @@ Internship at Prodigy Task 1 => Responsive Landing Page
 
 # TECH STACK 
 HTML
+
 CSS
+
 JAVASCRIPT 
 
 # CONNECT WITH ME 
