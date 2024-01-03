@@ -11,11 +11,9 @@ Internship at Prodigy Task 1 => Responsive Landing Page
 *Responsive Page Layout
 
 # TECH STACK 
-HTML
-
-CSS
-
-JAVASCRIPT 
+1. HTML
+2. CSS
+3. JAVASCRIPT 
 
 # CONNECT WITH ME 
 Linkedin: https://www.linkedin.com/in/riddhi-mehta-159654277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
